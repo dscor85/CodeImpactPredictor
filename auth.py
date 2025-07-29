@@ -1,0 +1,3 @@
+# Before
+def login(user, password):
+    ...
