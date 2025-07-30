@@ -1,3 +1,3 @@
 # After
-def login(username, password):
+def login(username, passwd):
     ...
